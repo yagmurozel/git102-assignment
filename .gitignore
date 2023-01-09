@@ -1,2 +1,5 @@
-##ENV VAR##
+##ENV VARS##
 .env*
+
+##Node Env Vars##
+app.js
